@@ -1,0 +1,2 @@
+# audioffmpeg
+一个利用ffmpeg封装的音频推流库，包括window下、mac下以及android和ios平台
