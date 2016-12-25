@@ -1,2 +1,3 @@
 # audioffmpeg
-一个利用ffmpeg封装的音频推流库，包括window下、mac下以及android和ios平台
+这是一个公开的项目，一个利用ffmpeg封装的音频推流库，包括window下、mac下以及android和ios平台
+如果有时间会把视频的加上
